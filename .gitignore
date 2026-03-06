@@ -1,0 +1,6 @@
+# Abaikan isi folder, tapi simpan folder itu sendiri
+Tugas_Preprocessing_Data/dataset_clean/*
+!Tugas_Preprocessing_Data/dataset_clean/.gitkeep
+
+Tugas_Preprocessing_Data/dataset_raw/*
+!Tugas_Preprocessing_Data/dataset_raw/.gitkeep
